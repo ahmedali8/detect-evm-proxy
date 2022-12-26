@@ -1,6 +1,3 @@
-# package.json is formatted by package managers, so we ignore it here
-package.json
-
 # directories
 .yarn/
 **/build
@@ -8,6 +5,7 @@ package.json
 **/node_modules
 
 # files
+.eslintrc.yml
 *.env
 *.log
 *.tsbuildinfo

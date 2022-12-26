@@ -1,5 +1,6 @@
-build
-node_modules
+**/build
+**/dist
+**/node_modules
 coverage
 .env
 *.log
