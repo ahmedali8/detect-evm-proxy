@@ -1,7 +1,7 @@
 {
   "name": "detect-evm-proxy",
   "version": "1.0.0",
-  "description": "Detect proxy contracts and their target addresses using en EIP-1193 compatible JSON-RPC request function",
+  "description": "Detect proxy contract kinds and their target addresses using an EIP-1193 compatible JSON-RPC request function",
   "repository": "https://github.com/ahmedali8/detect-evm-proxy",
   "author": "ahmedali8 <github.com/ahmedali8>",
   "license": "MIT",
